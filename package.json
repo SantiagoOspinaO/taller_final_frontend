@@ -7,7 +7,7 @@
     "debug": "SET DEBUG=taller-final:* & npx nodemon --inspect ./bin/www"
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^1.13.5",
     "bcrypt": "^6.0.0",
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
